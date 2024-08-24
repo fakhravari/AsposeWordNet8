@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/nNVxvfv+s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Aspose Word Net8\\Aspose_Word_Net8\\Aspose_Word_Net8\\Aspose_Word_Net8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}

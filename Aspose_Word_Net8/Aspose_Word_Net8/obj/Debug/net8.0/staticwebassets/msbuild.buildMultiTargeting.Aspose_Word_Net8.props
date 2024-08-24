@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aspose_Word_Net8.props" />
+</Project>
